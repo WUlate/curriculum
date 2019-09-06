@@ -19,6 +19,6 @@ For achieving these goals and enabling knowledge exchange about existing curricu
 
 ## How to contribute
 
-BDIC Interest Group will soon have a mailinglist, which will be used for announcements and caal for action. Actual discussion and development will take place here on Github. Folders for the framework and communication paper will be public shortly.
+BDIC Interest Group will soon have a mailinglist, which will be used for announcements and call for action. Actual discussion and development will take place here on Github. Folders for the framework and communication paper will be public shortly.
 
 
